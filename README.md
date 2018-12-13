@@ -141,6 +141,11 @@ MSFCRussianMilitaryJacketEmblem
 MSFCRussianMilitaryPants
 MSFCRussianMilitaryHelmet
 MSFCRussianMilitaryVest
+MSFCCSATJacket
+MSFCUSMCSurpatJacketComander
+MSFCUSMCSurpatJacket
+MSFCCSATPants
+MSFCUSMCSurpatPants
 
 MSFCBeretPRAPOR
 MSFCBeretJACK
